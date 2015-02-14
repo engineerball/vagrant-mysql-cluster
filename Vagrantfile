@@ -1,3 +1,5 @@
+# -*- mode: ruby -*-
+# # vi: set ft=ruby :
 ## RESOURCES
 # http://stackoverflow.com/questions/2366018/how-to-re-sync-the-mysql-db-if-master-and-slave-have-different-database-incase-o
 
