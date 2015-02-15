@@ -39,7 +39,6 @@ ndb-connectstring=192.168.56.130
     cd /var/lib/mysql-cluster
     ndbd --initial
     /etc/init.d/mysql.server start
-    /usr/local/mysql/bin/mysql_secure_installation
     echo 'ndbd' > /etc/init.d/ndbd
     chmod 755 /etc/init.d/ndbd
 
